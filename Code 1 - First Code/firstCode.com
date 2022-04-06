@@ -1,0 +1,1 @@
+º´	Í!ÃHi there this is an example of 8086 assemby code. I'm yunus e.v. $
