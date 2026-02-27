@@ -1,0 +1,41 @@
+# Assembly build artifacts
+*.com
+*.obj
+*.exe
+*.lst
+*.map
+*.sym
+*.symbol
+*.list
+*.debug
+*.~asm
+
+# Backup files
+*~
+*.bak
+*.old
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor specific
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Build directories
+build/
+bin/
+obj/
+
+# DOSBox
+*.conf.bak
+capture/
+
+# Logs
+*.log
